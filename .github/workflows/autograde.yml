@@ -14,4 +14,4 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Run Bash Tests
-        run: bash tests.sh
+        run: bash ./git-assessment/tests.sh

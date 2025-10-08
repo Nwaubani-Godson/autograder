@@ -48,6 +48,3 @@ git push origin main --tags
 - A failing test means something is wrong with your setup
 
 *Good luck*
-
-
-Trigger test
