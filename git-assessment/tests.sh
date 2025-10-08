@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Bash tests for Git Fundamentals Assessment
-set -e
+# set -e
 
 pass_count=0
 fail_count=0
