@@ -13,7 +13,8 @@ You can test your progress locally with `./run-tests.sh`.
 - Commit with the message: `add: about.txt`
 
 ### 2. Ignore Logs
-- Create a `.gitignore` file that ignores all `*.logs` files.
+- Create a `.gitignore` file that ignores all `*.log` files.
+- Commit with the message `add: .gitignore`
 
 ### 3. Branching
 - Create a branch called **feature/update-bio**.
